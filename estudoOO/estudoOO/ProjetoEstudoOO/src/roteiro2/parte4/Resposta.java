@@ -1,3 +1,4 @@
+package roteiro2.parte4;
 //Sim, é possível implementar uma solução que apresente não apenas a média,
 // mas também quantas notas ficaram acima da média, utilizando a classe Programa07
 
